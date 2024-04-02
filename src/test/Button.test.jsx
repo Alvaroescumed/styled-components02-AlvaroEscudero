@@ -2,9 +2,12 @@ import { getByRole, render, screen } from "@testing-library/react";
 import { Button } from "../components/StyledButton";
 import { expect, test } from "vitest";
 
+// testeamos que el componente renderice bien
 test('Should render correctly', () => {
     render(<Button>test</Button>)
 })
+
+// testeamos que el boton en todas sus variantes concuerden con la snaphot 
 
 test('Should match snapshou without props', () => {
     render(<Button>test</Button>)
