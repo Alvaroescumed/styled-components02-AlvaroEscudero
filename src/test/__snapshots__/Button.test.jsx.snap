@@ -1,0 +1,241 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`Should match snapshou with error prop 1`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border-color: #dc4b32;
+  color: #dc4b32;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+.c0:hover {
+  background-color: #f09b9a;
+}
+
+.c0:focus {
+  background-color: #771616;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou with info prop 1`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border-color: #982cbc;
+  color: #982cbc;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+.c0:hover {
+  background-color: #d0abf2;
+}
+
+.c0:focus {
+  background-color: #3f156c;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou with succes prop 1`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border-color: green;
+  color: green;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+.c0:hover {
+  background-color: lightgreen;
+}
+
+.c0:focus {
+  background-color: darkgreen;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou with warning prop 1`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+  border-color: #E9BA28;
+  color: #E9BA28;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+.c0:hover {
+  background-color: #f9e9bb;
+}
+
+.c0:focus {
+  background-color: #af870e;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou without props 1`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou without props 2`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou without props 3`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
+
+exports[`Should match snapshou without props 4`] = `
+.c0 {
+  background-color: transparent;
+  border: 2px solid blue;
+  color: blue;
+  padding: 10px 20px 10px 20px;
+  border-radius: 20px;
+}
+
+.c0:hover {
+  background-color: lightblue;
+}
+
+.c0:focus {
+  background-color: darkblue;
+  color: white;
+}
+
+<button
+  class="c0"
+>
+  test
+</button>
+`;
